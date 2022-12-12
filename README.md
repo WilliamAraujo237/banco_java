@@ -1,2 +1,2 @@
-# banco_java
-fazendo um sistema bancario usando poo e java
+# javapoo
+ aprendendo poo na plataforma alura
